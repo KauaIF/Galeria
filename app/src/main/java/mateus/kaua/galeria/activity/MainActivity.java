@@ -24,6 +24,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.Toast;
+import android.Manifest;
 
 
 import java.io.File;
@@ -33,7 +34,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import mateus.kaua.galeria.Manifest;
 import mateus.kaua.galeria.R;
 import mateus.kaua.galeria.adapter.MainAdapter;
 
